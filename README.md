@@ -1,8 +1,11 @@
 # 🌟 Generative AI Meets Traditional NLP: A Hybrid Approach for Robust Text Generation and Analysis
-
+![Generative AI & NLP Gif](https://github.com/Anish202020/Generative-AI-Meets-Traditional-NLP-A-Hybrid-Approach-for-Robust-Text-Generation-and-Analysis/blob/main/Images/Gif.gif)
    
 
+
 ## 🚀 Overview
+
+<img src="https://github.com/Anish202020/Generative-AI-Meets-Traditional-NLP-A-Hybrid-Approach-for-Robust-Text-Generation-and-Analysis/blob/main/Images/logo2.png" width="100" alt="accessibility text">
 
 This project integrates Generative AI and Traditional NLP to create a hybrid approach for text generation and analysis. The system:
 
@@ -38,7 +41,7 @@ TextBlob
 
 First, clone the repository:
 
-``` git clone https://github.com/your-username/Generative-AI-Meets-Traditional-NLP.git
+``` git clone https://github.com/Anish202020/Generative-AI-Meets-Traditional-NLP.git
  cd Generative-AI-Meets-Traditional-NLP
 ```
 
