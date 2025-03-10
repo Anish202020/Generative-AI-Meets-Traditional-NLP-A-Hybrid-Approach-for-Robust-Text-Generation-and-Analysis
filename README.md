@@ -63,7 +63,7 @@ python -m spacy download en_core_web_sm
 
 Run the script:
 ```
-python main.py
+python Generative AI - NLP.py
 ```
 Example output:
 ```
@@ -86,7 +86,7 @@ Polarity: 0.3, Subjectivity: 0.5
 
 ### 📂 Generative-AI-Meets-Traditional-NLP
 
- ├── 📜 main.py  # Entry point
+ ├── 📜 Generative AI - NLP.py  # Entry point
 
  ├── 📜 requirements.txt  # Dependencies
  
@@ -95,7 +95,7 @@ Polarity: 0.3, Subjectivity: 0.5
 
 
 
-### 👨‍💻 Author
+## 👨‍💻 Author
 
 Developed by Anish Kumar – Feel free to reach out! 🚀
 
