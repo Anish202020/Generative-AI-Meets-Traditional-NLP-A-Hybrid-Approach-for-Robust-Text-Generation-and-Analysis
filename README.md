@@ -1,6 +1,11 @@
 # 🌟 Generative AI Meets Traditional NLP: A Hybrid Approach for Robust Text Generation and Analysis
 ![Generative AI & NLP Gif](https://github.com/Anish202020/Generative-AI-Meets-Traditional-NLP-A-Hybrid-Approach-for-Robust-Text-Generation-and-Analysis/blob/main/Images/Gif.gif)
-   
+
+![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-en_core_web_sm-green?style=for-the-badge&logo=spaCy&logoColor=white)
+![Hugging Face Transformers](https://img.shields.io/badge/Hugging%20Face-Transformers-FF6F20?style=for-the-badge&logo=Huggingface&logoColor=white)
+![Torch (PyTorch)](https://img.shields.io/badge/Torch-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TextBlob](https://img.shields.io/badge/TextBlob-000000?style=for-the-badge&logo=python&logoColor=white)
 
 
 ## 🚀 Overview
