@@ -54,6 +54,11 @@ Then install dependencies:
 ```
 pip install -r requirements.txt
 ```
+
+At last, download the spaCy English model
+```
+python -m spacy download en_core_web_sm
+```
 ## 🚀 How to Run
 
 Run the script:
