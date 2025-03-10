@@ -1,8 +1,16 @@
 # 🌟 Generative AI Meets Traditional NLP: A Hybrid Approach for Robust Text Generation and Analysis
+![Generative AI & NLP Gif](https://github.com/Anish202020/Generative-AI-Meets-Traditional-NLP-A-Hybrid-Approach-for-Robust-Text-Generation-and-Analysis/blob/main/Images/Gif.gif)
 
-   
+![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-en_core_web_sm-green?style=for-the-badge&logo=spaCy&logoColor=white)
+![Hugging Face Transformers](https://img.shields.io/badge/Hugging%20Face-Transformers-FF6F20?style=for-the-badge&logo=Huggingface&logoColor=white)
+![Torch (PyTorch)](https://img.shields.io/badge/Torch-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TextBlob](https://img.shields.io/badge/TextBlob-000000?style=for-the-badge&logo=python&logoColor=white)
+
 
 ## 🚀 Overview
+
+<img src="https://github.com/Anish202020/Generative-AI-Meets-Traditional-NLP-A-Hybrid-Approach-for-Robust-Text-Generation-and-Analysis/blob/main/Images/logo2.png" width="100" alt="accessibility text">
 
 This project integrates Generative AI and Traditional NLP to create a hybrid approach for text generation and analysis. The system:
 
@@ -38,13 +46,18 @@ TextBlob
 
 First, clone the repository:
 
-``` git clone https://github.com/your-username/Generative-AI-Meets-Traditional-NLP.git
+``` git clone https://github.com/Anish202020/Generative-AI-Meets-Traditional-NLP.git
  cd Generative-AI-Meets-Traditional-NLP
 ```
 
 Then install dependencies:
 ```
 pip install -r requirements.txt
+```
+
+At last, download the spaCy English model
+```
+python -m spacy download en_core_web_sm
 ```
 ## 🚀 How to Run
 
@@ -82,7 +95,7 @@ Polarity: 0.3, Subjectivity: 0.5
 
 
 
-👨‍💻 Author
+### 👨‍💻 Author
 
 Developed by Anish Kumar – Feel free to reach out! 🚀
 
